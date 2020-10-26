@@ -1,0 +1,5 @@
+Display name: :flag_us: English, US
+
+Code: en_us
+
+Premium: 0

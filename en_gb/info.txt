@@ -1,0 +1,5 @@
+Display name: :flag_gb: English, UK
+
+Code: en_gb
+
+Premium: 0
