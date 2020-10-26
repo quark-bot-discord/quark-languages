@@ -47,8 +47,6 @@ invite
 
 setmuterole
 
-setmutedrole
-
 muterole
 
 privacy
