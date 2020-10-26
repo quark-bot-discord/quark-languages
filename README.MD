@@ -7,6 +7,6 @@ When contributing, you should:
 - Ensure the translation is **accurate**
 - Ensure the translation **makes sense**
 - Stick to the format
-- Don't translate the stuff within curly brackets - `{``}`
+- Don't translate the stuff within curly brackets - `{` `}`
 
 There isn't really anything else left to say just yet...
