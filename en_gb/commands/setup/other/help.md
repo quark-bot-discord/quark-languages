@@ -82,4 +82,7 @@ You need **Quark Electron** to use this.
 You need **Quark Proton** to use this.
 
 That language was not found. Check your spelling!
+
+
+Still need a hand? **Join our support server!**
 ```
