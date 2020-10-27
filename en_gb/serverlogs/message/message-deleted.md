@@ -17,4 +17,16 @@ Server invite detected
 
 
 Links to emojis
+
+Links to files
+
+
+file
+
+files
+
+
+file too large or expired
+
+files too large or expired
 ```
