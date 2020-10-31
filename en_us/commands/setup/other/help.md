@@ -42,6 +42,14 @@ To toggle whether spoilers are applied to all media sent in the serverlog, run:\
 
 Modlog Help
 
+Mute Role
+
+Mute role set to {role}
+
+No mute role setup!
+
+Set the mute role with `{prefix}modlog muterole`
+
 
 Automod Help
 
