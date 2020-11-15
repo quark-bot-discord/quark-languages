@@ -1,0 +1,5 @@
+Display name: :scroll: Shakespearean English, Kingdom Of England
+
+Code: en_sh
+
+Premium: 1
