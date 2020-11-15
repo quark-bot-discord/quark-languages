@@ -8,5 +8,6 @@ When contributing, you should:
 - Ensure the translation **makes sense**
 - Stick to the format
 - Don't translate the stuff within curly brackets - `{` `}` - just place it where it will fit best within the sentence
+- Want to add a new language which doesn't exist here already? Go for it!
 
 There isn't really anything else left to say just yet...
