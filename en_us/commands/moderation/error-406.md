@@ -1,6 +1,6 @@
 ```
-No Muted role
+No Mute role
 
 
-Please create a role named `Muted` or choose your own role with `{prefix}setmuterole <role, @mention | ID | name>` and setup the permissions for it
+Please create a role named `Muted` or choose your own role with `{prefix}modlog setmuterole <role, @mention | ID | name>` and setup the permissions for it
 ```
