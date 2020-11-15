@@ -1,0 +1,5 @@
+Display name: :pirate_flag: Pirate Speak, The Seven Seas
+
+Code: en_pr
+
+Premium: 1
