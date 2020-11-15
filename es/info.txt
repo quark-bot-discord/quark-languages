@@ -1,0 +1,5 @@
+Display name: :flag_es: Español
+
+Code: es
+
+Premium: 0
