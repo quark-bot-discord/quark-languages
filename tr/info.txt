@@ -1,0 +1,5 @@
+Display name: :flag_tr: Türkçe
+
+Code: tr
+
+Premium: 0
