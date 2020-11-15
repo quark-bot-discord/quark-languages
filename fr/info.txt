@@ -1,0 +1,5 @@
+Display name: :flag_mf: Français
+
+Code: fr
+
+Premium: 0
