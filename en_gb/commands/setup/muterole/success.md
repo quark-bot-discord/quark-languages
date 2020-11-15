@@ -1,3 +1,3 @@
 ```
-'Muted' role now set to {role}!
+Mute role now set to {role}!
 ```
