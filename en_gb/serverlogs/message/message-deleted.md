@@ -16,8 +16,6 @@ WARNING!
 Server invite detected
 
 
-Links to emojis
-
 Links to files
 
 
