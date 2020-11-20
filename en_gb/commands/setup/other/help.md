@@ -74,7 +74,7 @@ Other
 
 Key:\n`<required>` `[optional]`\nThis is not a list of every command
 
-`{prefix}ban <user, @mention | ID | name> [reason]`\n`{prefix}unban <user, @mention | ID | name> [reason]`\n`{prefix}kick <user, @mention | ID | name> [reason]`\n`{prefix}mute <user, @mention | ID | name> [reason]`\n`{prefix}unmute <user, @mention | ID | name> [reason]`\n`{prefix}purge <number>`
+`{prefix}ban <user, @mention | ID | name> [reason] [arguments]`\n`{prefix}unban <user, @mention | ID | name> [reason]`\n`{prefix}kick <user, @mention | ID | name> [reason]`\n`{prefix}mute <user, @mention | ID | name> [reason] | [time]`\n`{prefix}unmute <user, @mention | ID | name> [reason]`\n`{prefix}purge <number> [arguments]`
 
 `{prefix}tags`
 
