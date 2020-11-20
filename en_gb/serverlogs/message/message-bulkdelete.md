@@ -6,7 +6,7 @@ Deleted by
 
 Channel
 
-{number} more
++ {number} more...
 
 
 uncached user
@@ -19,7 +19,7 @@ uncached message
 embed
 
 
-There was an issue with recovering the files. If this happens persistently, please make us aware in our support server.
+There was an issue with recovering the files. If this happens persistently, please make us aware in our support server.\n{invite}
 
-There was an issue with creating a text file. Some messages may be lost.
+There was an issue with creating a text file. Some messages may be lost. If this happens persistently, please make us aware in our support server.\n{invite}
 ```
