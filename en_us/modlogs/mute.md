@@ -16,5 +16,5 @@ Moderator: Please do `{prefix}reason {caseNumber} [reason]`
 Do `{prefix}reason {caseNumber}`
 
 
-Unmute at
+Unmute at: {time}
 ```
