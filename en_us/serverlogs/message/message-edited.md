@@ -9,4 +9,6 @@ Message author
 Channel
 
 Jump to message
+
+[Cannot retrieve original message]
 ```
