@@ -61,7 +61,11 @@ uo sᴉɥʇ ǝlƃƃoʇ oʇ {command} unɹ
 
 (∩OW) sǝɯɐuɹǝs∩ ǝʌᴉsuǝɟɟO ǝʇɐɹǝpoW
 
+(┴OɹԀ MℲSN) uoᴉʇɔǝʇoɹԀ MℲSN
+
 sᴉsɐq lǝuuɐɥɔ-ɹǝd ɐ uo sᴉɥʇ ǝlqɐsᴉp oʇ {command} unɹ
+
+˙ooʇ ɹǝʌɹǝs ǝɥʇ ƃuᴉʇɐɹǝpoɯ uɐɯnɥ ɐ ǝʌɐɥ sʎɐʍlɐ plnoɥs no⅄ ˙ǝʇɐɹnɔɔɐ ʎlǝɹᴉʇuǝ sʎɐʍlɐ ʇou sᴉ ʇᴉ sɐ 'ɯǝʇsʎs sᴉɥʇ uo ʎlǝɹ ʎllnɟ ʇou op
 
 
 dlǝH spuɐɯɯoƆ
@@ -93,4 +97,27 @@ dlǝH ǝƃɐnƃuɐ˥
 
 
 **¡ɹǝʌɹǝs ʇɹoddns ɹno uᴉoſ** ¿puɐɥ ɐ pǝǝu llᴉʇS
+
+
+ɯnᴉɯǝɹԀ
+
+ɯnᴉɯǝɹd ǝƃɐuɐɯ oʇ {command} unɹ
+
+uoɹʇɔǝlƎ ʞɹɐnQ ɟo {period} {time}
+
+uoʇoɹԀ ʞɹɐnQ ɟo {period} {time}
+
+ɥʇuoɯ
+
+sɥʇuoɯ
+
+uoᴉʇdᴉɹɔsqnS ǝʌᴉʇɔ∀
+
+suoᴉʇdᴉɹɔsqnS pǝɯǝǝpǝɹu∩
+
+¡suoᴉʇdᴉɹɔsqns pǝɯǝǝpǝɹun oN
+
+ɯnᴉɯǝɹԀ ǝsɐɥɔɹnԀ
+
+ǝʇɐpdn ʎllnɟ oʇ sǝʇnuᴉɯ ϛ oʇ dn ǝʞɐʇ uɐɔ ʇI
 ```
