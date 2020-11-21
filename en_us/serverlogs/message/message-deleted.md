@@ -15,6 +15,8 @@ WARNING!
 
 Server invite detected
 
+NSFW content detected
+
 
 Links to files
 
