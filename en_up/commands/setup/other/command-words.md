@@ -29,4 +29,6 @@ automod
 commands
 
 language
+
+premium
 ```
