@@ -22,6 +22,8 @@ Run {command} to see statuses and options
 
 Run {command} to see all commands
 
+Run {command} to manage premium
+
 Change this by running {command} in the desired channel.
 
 
@@ -61,7 +63,11 @@ Invite Protection (IP)
 
 Moderate Offensive Usernames (MOU)
 
+NSFW Protection (NSFW PROT)
+
 Run {command} to disable this on a per-channel basis
+
+Do not fully rely on this system, as it is not always entirely accurate. You should always have a human moderating the server too.
 
 
 Commands Help
@@ -93,4 +99,25 @@ That language was not found. Check your spelling!
 
 
 Still need a hand? **Join our support server!**
+
+
+Premium
+
+{time} {period} of Quark Electron
+
+{time} {period} of Quark Proton
+
+month
+
+months
+
+Active Subscription
+
+Unredeemed Subscriptions
+
+No unredeemed subscriptions!
+
+Purchase Premium
+
+It can take up to 5 minutes to fully update
 ```
