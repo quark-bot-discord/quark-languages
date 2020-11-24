@@ -21,4 +21,9 @@ uᴉoɾ ʇɐɥʇ sɹǝqɯǝɯ ʍǝu uo ʇɔǝɟɟǝ uɐ sɐɥ ʎluo sᴉɥ┴
 pǝʇɐpd∩ ƃuᴉʇʇǝS
 
 {option} oʇ ʇǝs {settingName}
+
+
+{emoji} oʇ ʇǝs ᴉɾoɯǝ ɯoʇsnƆ
+
+pǝʌoɯǝɹ ᴉɾoɯǝ ɯoʇsnƆ
 ```

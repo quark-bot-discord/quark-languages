@@ -52,6 +52,10 @@ No mute role setup!
 
 Set the mute role with `{prefix}modlog muterole`
 
+Custom Emoji
+
+Set the custom emoji with `{prefix}customemoji` {premium}
+
 
 Automod Help
 
@@ -76,6 +80,8 @@ Moderation
 
 Tags
 
+Notes
+
 Other
 
 Key:\n`<required>` `[optional]`\nThis is not a list of every command
@@ -83,6 +89,8 @@ Key:\n`<required>` `[optional]`\nThis is not a list of every command
 `{prefix}ban <user, @mention | ID | name> [reason] [arguments]`\n`{prefix}unban <user, @mention | ID | name> [reason]`\n`{prefix}kick <user, @mention | ID | name> [reason]`\n`{prefix}mute <user, @mention | ID | name> [reason] | [time]`\n`{prefix}unmute <user, @mention | ID | name> [reason]`\n`{prefix}purge <number> [arguments]`
 
 `{prefix}tags`
+
+`{prefix}notes`
 
 `{prefix}invite`\n`{prefix}ping`\n`{prefix}stats`\n`{prefix}privacy`\n`{prefix}prefix <new prefix>`
 
@@ -120,4 +128,7 @@ No unredeemed subscriptions!
 Purchase Premium
 
 It can take up to 5 minutes to fully update
+
+
+Notes Help
 ```

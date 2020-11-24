@@ -50,3 +50,8 @@ setmuterole
 muterole
 
 privacy
+
+customemoji
+
+setemoji
+```

@@ -50,6 +50,10 @@ dlǝH ƃolpoW
 
 `{prefix}modlog muterole` ɥʇᴉʍ ǝloɹ ǝʇnɯ ǝɥʇ ʇǝS
 
+ᴉɾoɯƎ ɯoʇsnƆ
+
+{premium} `{prefix}customemoji` ɥʇᴉʍ ᴉɾoɯǝ ɯoʇsnɔ ǝɥʇ ʇǝS
+
 
 dlǝH poɯoʇn∀
 
@@ -74,6 +78,8 @@ uoᴉʇɐɹǝpoW
 
 sƃɐ┴
 
+sǝʇoN
+
 ɹǝɥʇO
 
 :ʎǝʞ\n`<required>` `[optional]`\npuɐɯɯoɔ ʎɹǝʌǝ ɟo ʇsᴉl ɐ ʇou sᴉ sᴉɥ┴
@@ -81,6 +87,8 @@ sƃɐ┴
 `{prefix}ban <user, @mention | ID | name> [reason] [arguments]`\n`{prefix}unban <user, @mention | ID | name> [reason]`\n`{prefix}kick <user, @mention | ID | name> [reason]`\n`{prefix}mute <user, @mention | ID | name> [reason] | [time]`\n`{prefix}unmute <user, @mention | ID | name> [reason]`\n`{prefix}purge <number> [arguments]`
 
 `{prefix}tags`
+
+`{prefix}notes`
 
 `{prefix}invite`\n`{prefix}ping`\n`{prefix}stats [arguments]`\n`{prefix}privacy`\n`{prefix}prefix <new prefix>`
 
@@ -120,4 +128,7 @@ suoᴉʇdᴉɹɔsqnS pǝɯǝǝpǝɹu∩
 ɯnᴉɯǝɹԀ ǝsɐɥɔɹnԀ
 
 ǝʇɐpdn ʎllnɟ oʇ sǝʇnuᴉɯ ϛ oʇ dn ǝʞɐʇ uɐɔ ʇI
+
+
+dlǝH sǝʇoN
 ```

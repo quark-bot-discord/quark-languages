@@ -21,4 +21,9 @@ This only has an effect on new members that join
 Setting Updated
 
 {settingName} set to {option}
+
+
+Custom emoji set to {emoji}
+
+Custom emoji removed
 ```
