@@ -1,3 +1,3 @@
 ```
-{tag} tag deleted! Use `{prefix}tags list` to see all your remaining tags!
+{tag} tag deleted! Use {commandList} to see all your remaining tags!
 ```

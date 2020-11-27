@@ -1,3 +1,3 @@
 ```
-¡sƃɐʇ ƃuᴉuᴉɐɯǝɹ ɹnoʎ llɐ ǝǝs oʇ `{prefix}tags list` ǝs∩ ¡pǝʇǝlǝp ƃɐʇ {tag}
+¡sƃɐʇ ƃuᴉuᴉɐɯǝɹ ɹnoʎ llɐ ǝǝs oʇ {commandList} ǝs∩ ¡pǝʇǝlǝp ƃɐʇ {tag}
 ```

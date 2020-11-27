@@ -1,3 +1,11 @@
 ```
-__**:ǝƃɐsn puɐɯɯoɔ ƃɐ┴**__ \n `{prefix}tag add <name> <content> [options]` \n`{prefix}tag edit <name OR id> <content> [options]` \n`{prefix}tag delete <name>` \n`{prefix}tag list` \n:puɐɯɯoɔ ɐ sɐ ʇᴉ unɹ 'ƃɐʇ ɐ ǝsn o┴ \n`{prefix}<name OR id> [options]` \n__**:suoᴉʇdo pǝqɯƎ**__ \n**-c** - (ex. -c #0000FF) pǝqɯǝ ǝɥʇ ɹoɟ ǝsn oʇ ɹnoloɔ xǝH \n **ǝƃɐssǝɯ puɐɯɯoɔ ǝɥʇ uᴉ ǝƃɐɯᴉ uɐ puǝs** - pǝqɯǝ ǝɥʇ oʇ pǝɥɔɐʇʇɐ ǝq oʇ ǝƃɐɯI\n__**:suoᴉʇdo ǝƃɐsn ƃɐ┴**__\n**-d** - ƃɐʇ ǝɥʇ pǝɹǝƃƃᴉɹʇ ʇɐɥʇ ǝƃɐssǝɯ lɐuᴉƃᴉɹo ǝɥʇ sǝʇǝlǝp \n**suoᴉʇuǝW** - ʎʇᴉlᴉqᴉsᴉʌ ɹǝʇʇǝq ɹoɟ ǝsuodsǝɹ ƃɐʇ ǝɥʇ oʇuᴉ suoᴉʇuǝɯ ʇᴉpǝ llᴉM
+:suoᴉʇdo pǝqɯƎ
+
+**-c** - (ex. -c #0000FF) pǝqɯǝ ǝɥʇ ɹoɟ ǝsn oʇ ɹnoloɔ xǝH \n **ǝƃɐssǝɯ puɐɯɯoɔ ǝɥʇ uᴉ ǝƃɐɯᴉ uɐ puǝs** - pǝqɯǝ ǝɥʇ oʇ pǝɥɔɐʇʇɐ ǝq oʇ ǝƃɐɯI
+
+:suoᴉʇdo ǝƃɐsn ƃɐ┴
+
+**-d** - ƃɐʇ ǝɥʇ pǝɹǝƃƃᴉɹʇ ʇɐɥʇ ǝƃɐssǝɯ lɐuᴉƃᴉɹo ǝɥʇ sǝʇǝlǝp \n**suoᴉʇuǝW** - ʎʇᴉlᴉqᴉsᴉʌ ɹǝʇʇǝq ɹoɟ ǝsuodsǝɹ ƃɐʇ ǝɥʇ oʇuᴉ suoᴉʇuǝɯ ʇᴉpǝ llᴉM
+
+sƃɐ┴ ʎɐldsᴉp
 ```
